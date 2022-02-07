@@ -1,3 +1,6 @@
+### สำหรับใครที่ยังทำงานบนgitไม่คล่องผมเขียนวิธีการทำงานให้คล่าวๆลองไปอ่านกันได้นะ #กริด/เอ๋ 
+[กดตรงนี้](https://github.com/vitvara/exceed-food-assignment/blob/main/HowTo.md) [7/2/65]
+
 # Assignment
 สร้างเว็บไซต์ค้นหาอาหารด้วย API ที่กำหนดให้ โดยให้ช่วยกันทำตามกลุ่ม Exceed น้องสามารถกดที่ ปุ่ม [Use this template](https://github.com/FRONTEND-EXCEED-18/food-assignment/generate) สีเขียวเพื่อสร้าง repository เป็นของตัวเอง โดยมีไฟล์เริ่มต้นทั้งหมดใน repository นี้ 
 ### Requirements
